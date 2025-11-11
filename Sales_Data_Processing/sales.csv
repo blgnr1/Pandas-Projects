@@ -1,0 +1,11 @@
+OrderID,Product,Category,Price,Quantity,Total,CustomerID,PurchaseDate
+1,Apple,Electronics,999.99,1,999.99,12345,2023-05-01
+2,Shampoo,Beauty,7.99,3,23.97,12346,2023-05-02
+3,Laptop,Electronics,799.99,2,1599.98,12347,2023-05-02
+4,TV,Electronics,499.99,1,499.99,12348,2023-05-03
+5,Toothpaste,Beauty,2.99,4,11.96,12349,2023-05-03
+6,Headphones,Electronics,199.99,2,399.98,12350,2023-05-04
+7,Microwave,Home Appliances,149.99,1,149.99,12351,2023-05-05
+8,Blender,Home Appliances,79.99,3,239.97,12352,2023-05-05
+9,Camera,Electronics,499.99,1,499.99,12353,2023-05-06
+10,Watch,Fashion,99.99,1,99.99,12354,2023-05-07

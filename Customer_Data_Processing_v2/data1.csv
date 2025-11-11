@@ -1,0 +1,501 @@
+CustomerID,CustomerName,Age,Gender,City,Product,Price,PurchaseDate,PaymentMethod,SubscriptionType,UsageHours,FeedbackScore,IsReturningCustomer,DiscountReceived,ReferralSource
+8270,Customer_0,26,Male,Los Angeles,Headphones,914.38,2023-11-20,Cash,Monthly,9.27,4,True,27.66,Advertisement
+1860,Customer_1,27,Female,New York,Smartwatch,143.27,2023-10-15,Crypto,None,2.89,2,False,26.02,Friend
+6390,Customer_2,75,Female,Phoenix,Laptop,124.14,2023-12-02,Debit Card,Annual,17.41,4,True,49.73,Friend
+6191,Customer_3,61,Female,Los Angeles,Laptop,1505.1,2022-02-18,Crypto,Monthly,89.19,4,False,10.09,Friend
+6734,Customer_4,34,Non-binary,Los Angeles,Headphones,1335.12,2022-10-29,Debit Card,Annual,24.91,3,True,12.91,Advertisement
+7265,Customer_5,78,Male,New York,Headphones,1614.15,2022-07-09,Cash,Monthly,36.07,1,False,5.68,None
+1466,Customer_6,55,Male,Los Angeles,Headphones,255.47,2022-05-16,Crypto,Monthly,11.43,4,True,45.88,Friend
+5426,Customer_7,24,Non-binary,Phoenix,Tablet,119.36,2023-07-09,Credit Card,Monthly,23.01,5,True,38.89,Advertisement
+6578,Customer_8,63,Male,Los Angeles,Smartwatch,1041.73,2023-02-08,Crypto,Monthly,52.4,1,False,41.12,Social Media
+9322,Customer_9,30,Female,Phoenix,Headphones,805.81,2023-08-25,Cash,Annual,61.17,2,False,45.14,Advertisement
+2685,Customer_10,57,Female,New York,Phone,950.8,2022-12-07,Credit Card,Annual,25.29,3,False,26.24,Social Media
+1769,Customer_11,59,Female,Chicago,Phone,1983.6,2023-12-05,Credit Card,Monthly,6.72,2,False,22.56,Advertisement
+7949,Customer_12,26,Male,Los Angeles,Laptop,1942.96,2022-11-14,Debit Card,Monthly,39.71,2,True,16.52,None
+3433,Customer_13,67,Female,Chicago,Smartwatch,1887.52,2023-09-10,Credit Card,Annual,24.19,1,True,29.46,Friend
+6311,Customer_14,44,Non-binary,Phoenix,Headphones,1578.49,2022-12-29,Credit Card,None,22.74,2,True,22.71,None
+6051,Customer_15,75,Non-binary,Los Angeles,Phone,741.94,2023-01-17,Crypto,None,96.03,4,False,22.58,Advertisement
+7420,Customer_16,19,Male,Houston,Smartwatch,853.66,2022-08-21,Cash,Annual,62.01,2,True,46.85,Friend
+2184,Customer_17,22,Non-binary,Chicago,Laptop,1121.75,2022-12-10,Debit Card,Monthly,56.13,3,True,49.2,Social Media
+5555,Customer_18,46,Non-binary,Los Angeles,Tablet,1669.54,2023-07-03,Crypto,Monthly,42.16,3,False,39.82,Advertisement
+4385,Customer_19,54,Male,Chicago,Smartwatch,183.99,2023-07-07,Credit Card,None,43.47,5,False,37.84,Friend
+7396,Customer_20,55,Female,Los Angeles,Smartwatch,877.38,2023-06-13,Credit Card,None,54.55,3,True,34.03,Social Media
+9666,Customer_21,36,Female,New York,Tablet,211.1,2023-07-25,Debit Card,Annual,69.95,2,False,8.3,Social Media
+3558,Customer_22,25,Female,Chicago,Smartwatch,1053.58,2022-07-02,Cash,None,70.51,3,True,2.96,None
+8849,Customer_23,65,Male,Houston,Laptop,1802.86,2022-02-10,Debit Card,Annual,18.0,1,True,34.54,Advertisement
+3047,Customer_24,62,Non-binary,Houston,Laptop,1575.85,2023-07-05,Crypto,None,50.51,3,False,36.44,Social Media
+3747,Customer_25,18,Female,Phoenix,Tablet,494.29,2023-02-01,Debit Card,None,41.78,4,True,2.35,Friend
+1189,Customer_26,39,Female,Los Angeles,Headphones,1953.18,2023-12-05,Credit Card,None,87.18,1,False,46.4,Social Media
+3734,Customer_27,69,Male,Chicago,Phone,1351.33,2023-05-09,Crypto,Monthly,63.51,5,False,4.56,Social Media
+4005,Customer_28,34,Female,Phoenix,Headphones,70.33,2023-10-21,Credit Card,Monthly,53.72,4,True,14.3,None
+5658,Customer_29,24,Male,Chicago,Smartwatch,548.06,2022-11-29,Cash,Monthly,12.42,2,True,33.62,None
+2899,Customer_30,42,Non-binary,Los Angeles,Phone,558.39,2022-05-07,Credit Card,None,60.96,2,True,8.49,Friend
+8734,Customer_31,62,Male,Houston,Tablet,185.05,2023-07-12,Credit Card,Annual,12.6,2,False,2.77,None
+2267,Customer_32,21,Male,New York,Tablet,1921.66,2023-07-11,Debit Card,Annual,34.38,4,True,16.56,Social Media
+2528,Customer_33,53,Male,Houston,Phone,982.6,2022-01-01,Credit Card,Annual,15.14,4,False,38.3,Social Media
+4556,Customer_34,23,Male,Phoenix,Laptop,1796.84,2022-06-17,Crypto,Annual,69.52,4,False,20.68,None
+4890,Customer_35,77,Non-binary,New York,Phone,678.32,2023-09-12,Crypto,Monthly,21.42,1,True,32.65,Social Media
+9838,Customer_36,48,Non-binary,Phoenix,Smartwatch,294.21,2022-01-19,Cash,Monthly,39.79,1,False,28.98,Social Media
+6393,Customer_37,36,Female,Los Angeles,Laptop,974.96,2022-11-28,Crypto,None,89.67,2,True,1.11,Friend
+9792,Customer_38,78,Non-binary,New York,Tablet,272.22,2023-08-07,Debit Card,None,21.23,3,True,49.43,None
+9433,Customer_39,61,Non-binary,Phoenix,Phone,997.73,2023-04-01,Cash,Annual,51.27,2,True,2.07,Social Media
+8513,Customer_40,71,Female,Los Angeles,Headphones,1844.58,2022-04-19,Crypto,Monthly,42.51,5,True,48.39,None
+3612,Customer_41,56,Non-binary,Houston,Headphones,1065.5,2022-09-25,Debit Card,Annual,2.79,1,True,27.49,Friend
+8041,Customer_42,44,Male,Los Angeles,Smartwatch,1252.17,2023-03-21,Crypto,None,79.48,4,True,48.16,None
+7235,Customer_43,27,Male,Chicago,Headphones,355.44,2022-08-28,Crypto,None,7.84,1,True,5.74,Social Media
+6486,Customer_44,43,Female,Los Angeles,Phone,135.28,2022-10-28,Credit Card,Annual,47.95,4,False,24.52,None
+8099,Customer_45,36,Female,Los Angeles,Phone,266.08,2023-08-25,Crypto,None,56.51,5,True,8.48,Social Media
+1775,Customer_46,56,Female,Chicago,Headphones,1217.14,2022-04-13,Crypto,Annual,63.21,5,False,2.55,Social Media
+9226,Customer_47,79,Male,Phoenix,Phone,235.27,2022-09-07,Debit Card,Monthly,69.17,1,False,30.88,Social Media
+4152,Customer_48,20,Non-binary,Phoenix,Smartwatch,783.19,2023-03-29,Debit Card,Annual,26.07,4,False,10.39,Friend
+2585,Customer_49,62,Male,Los Angeles,Laptop,1122.68,2023-06-04,Credit Card,Monthly,1.99,5,True,29.38,None
+4943,Customer_50,30,Female,Chicago,Smartwatch,807.87,2022-06-02,Crypto,Monthly,72.62,2,False,5.62,Friend
+8555,Customer_51,67,Non-binary,Chicago,Smartwatch,369.18,2022-06-23,Credit Card,None,54.03,2,False,16.6,None
+4073,Customer_52,45,Non-binary,Houston,Phone,583.89,2022-12-09,Crypto,None,83.78,4,True,39.08,Friend
+2021,Customer_53,79,Male,Phoenix,Laptop,1860.22,2023-11-01,Cash,None,82.32,1,True,21.85,Advertisement
+4843,Customer_54,75,Female,New York,Phone,1368.17,2023-03-07,Cash,Annual,84.49,5,False,31.39,Social Media
+8989,Customer_55,37,Male,Phoenix,Tablet,1017.29,2023-12-28,Credit Card,Annual,49.02,1,True,32.37,Social Media
+7873,Customer_56,45,Non-binary,Phoenix,Phone,74.79,2023-11-20,Credit Card,None,34.03,2,True,42.19,Friend
+6675,Customer_57,25,Male,Houston,Phone,1985.21,2023-11-18,Credit Card,Annual,79.36,5,True,16.25,Advertisement
+1161,Customer_58,78,Male,New York,Phone,1359.34,2023-10-20,Debit Card,None,45.68,1,True,34.36,Social Media
+5297,Customer_59,58,Female,Houston,Laptop,668.0,2022-11-20,Debit Card,Annual,19.16,3,False,48.08,None
+1995,Customer_60,56,Female,New York,Phone,1764.57,2023-11-04,Debit Card,Monthly,85.64,4,True,36.51,Friend
+8629,Customer_61,18,Non-binary,Los Angeles,Laptop,553.94,2023-10-01,Credit Card,Monthly,88.37,4,True,24.49,Social Media
+2016,Customer_62,20,Male,New York,Headphones,1110.83,2023-02-24,Crypto,None,47.16,3,True,31.54,Social Media
+8869,Customer_63,30,Male,Houston,Tablet,1290.34,2023-08-17,Cash,Annual,8.49,2,False,36.98,Friend
+7439,Customer_64,45,Male,Phoenix,Laptop,481.07,2023-04-30,Credit Card,Annual,39.39,5,False,30.61,Friend
+8892,Customer_65,79,Non-binary,New York,Headphones,1957.87,2023-10-21,Debit Card,Monthly,80.55,4,True,0.83,None
+7863,Customer_66,74,Non-binary,New York,Laptop,1508.97,2023-02-16,Debit Card,Monthly,90.28,3,True,9.74,None
+8916,Customer_67,77,Female,Chicago,Laptop,1137.74,2022-03-25,Credit Card,None,21.14,3,False,40.52,Social Media
+9529,Customer_68,66,Female,Phoenix,Tablet,402.16,2022-04-23,Credit Card,Monthly,7.63,2,True,13.63,Social Media
+1878,Customer_69,42,Female,Los Angeles,Smartwatch,155.02,2022-11-28,Debit Card,None,87.86,2,True,36.58,Friend
+5887,Customer_70,73,Male,Houston,Smartwatch,674.12,2023-01-13,Crypto,Monthly,39.55,1,False,18.61,Social Media
+5859,Customer_71,50,Male,Los Angeles,Laptop,1518.72,2023-10-17,Debit Card,Monthly,54.63,4,True,26.09,Social Media
+7331,Customer_72,55,Female,Phoenix,Phone,575.2,2022-02-10,Debit Card,Annual,96.84,1,True,3.4,Friend
+9571,Customer_73,70,Male,New York,Headphones,1102.13,2022-04-15,Credit Card,Monthly,7.59,3,False,9.06,Social Media
+9684,Customer_74,23,Female,New York,Phone,1469.5,2022-07-21,Crypto,Monthly,65.18,5,False,47.86,Social Media
+8208,Customer_75,75,Non-binary,Phoenix,Phone,260.49,2023-03-26,Debit Card,None,8.34,5,True,44.51,Advertisement
+6276,Customer_76,61,Female,New York,Laptop,1386.33,2022-09-23,Debit Card,Monthly,38.17,2,False,32.61,None
+3062,Customer_77,62,Non-binary,New York,Laptop,229.15,2022-07-29,Cash,None,80.58,5,True,22.98,Friend
+1064,Customer_78,49,Male,New York,Laptop,1932.0,2023-07-17,Credit Card,Monthly,43.91,5,True,33.79,Advertisement
+9006,Customer_79,62,Female,Houston,Laptop,1002.37,2022-04-28,Cash,Monthly,99.72,5,True,30.93,None
+3568,Customer_80,78,Male,Houston,Smartwatch,343.82,2023-12-14,Cash,None,56.35,3,False,28.43,None
+6463,Customer_81,64,Non-binary,Chicago,Laptop,717.65,2023-01-12,Debit Card,Annual,32.8,5,False,2.96,None
+3027,Customer_82,38,Non-binary,Los Angeles,Smartwatch,856.16,2023-07-05,Credit Card,None,22.79,5,True,31.64,Advertisement
+3695,Customer_83,33,Non-binary,Phoenix,Smartwatch,1528.46,2023-06-24,Crypto,None,35.7,5,True,38.45,Advertisement
+6258,Customer_84,71,Male,Phoenix,Laptop,1499.68,2022-03-25,Debit Card,None,37.88,1,False,49.7,None
+6618,Customer_85,38,Male,Phoenix,Tablet,1243.28,2023-03-30,Crypto,Annual,7.8,3,False,0.55,Social Media
+7736,Customer_86,28,Male,Chicago,Headphones,256.56,2023-10-29,Crypto,Monthly,37.59,2,False,36.51,Social Media
+1391,Customer_87,77,Male,Houston,Phone,345.56,2023-09-21,Credit Card,None,46.96,1,True,28.59,Advertisement
+6892,Customer_88,54,Non-binary,Chicago,Smartwatch,232.83,2023-05-29,Cash,None,72.55,4,False,21.7,Advertisement
+4561,Customer_89,53,Non-binary,Phoenix,Headphones,1175.49,2023-08-28,Credit Card,Annual,66.02,3,False,6.38,Advertisement
+7184,Customer_90,52,Female,Los Angeles,Tablet,1760.42,2023-11-09,Crypto,None,71.17,3,True,20.45,None
+4099,Customer_91,36,Female,New York,Phone,895.91,2023-01-22,Debit Card,Monthly,1.83,4,True,17.72,Social Media
+7278,Customer_92,37,Male,Houston,Phone,363.65,2022-12-16,Crypto,Annual,22.55,4,True,15.14,Advertisement
+9392,Customer_93,74,Non-binary,Houston,Smartwatch,1138.18,2022-10-23,Debit Card,Monthly,66.51,4,False,36.54,Advertisement
+4104,Customer_94,35,Non-binary,Chicago,Laptop,1632.92,2022-09-15,Debit Card,Monthly,48.91,2,True,35.04,Friend
+8215,Customer_95,64,Non-binary,Houston,Tablet,1496.34,2022-03-22,Credit Card,Annual,1.53,5,True,29.45,None
+3454,Customer_96,58,Female,Phoenix,Smartwatch,1768.83,2022-09-25,Crypto,None,80.64,3,True,46.93,Friend
+9996,Customer_97,66,Female,Phoenix,Tablet,591.91,2023-02-23,Cash,Monthly,77.51,5,True,17.49,Social Media
+3731,Customer_98,31,Non-binary,Chicago,Laptop,428.21,2022-08-23,Crypto,Monthly,55.29,5,False,12.19,Friend
+9154,Customer_99,32,Non-binary,Phoenix,Laptop,1765.64,2022-11-07,Crypto,Monthly,7.58,4,True,32.8,Friend
+6056,Customer_100,48,Non-binary,Los Angeles,Smartwatch,1332.24,2022-12-23,Cash,Monthly,76.88,2,False,9.94,Friend
+9110,Customer_101,18,Female,Chicago,Laptop,656.31,2022-08-01,Credit Card,Annual,58.79,1,False,15.75,None
+4840,Customer_102,70,Non-binary,Los Angeles,Headphones,1497.58,2023-07-28,Crypto,Annual,78.41,2,False,11.23,Social Media
+2028,Customer_103,71,Non-binary,New York,Phone,1639.48,2022-02-18,Crypto,Monthly,75.42,5,True,3.46,Friend
+8385,Customer_104,71,Male,Los Angeles,Smartwatch,1249.21,2022-05-07,Debit Card,None,80.5,2,False,41.37,None
+1502,Customer_105,20,Male,New York,Tablet,1391.37,2022-08-11,Crypto,Monthly,52.28,4,True,12.73,Social Media
+7910,Customer_106,33,Female,New York,Headphones,781.76,2022-10-06,Cash,None,14.89,1,True,23.65,Advertisement
+7938,Customer_107,40,Non-binary,Los Angeles,Smartwatch,1100.46,2023-02-12,Debit Card,Monthly,67.44,4,True,2.17,Friend
+5488,Customer_108,74,Non-binary,Chicago,Laptop,1072.11,2023-05-20,Credit Card,None,62.43,1,False,34.97,Social Media
+1206,Customer_109,28,Male,Phoenix,Laptop,1703.69,2022-10-21,Debit Card,Monthly,74.48,5,True,16.53,Friend
+6134,Customer_110,29,Female,Phoenix,Laptop,1687.93,2022-10-04,Cash,None,17.82,1,True,37.24,Advertisement
+6977,Customer_111,27,Male,New York,Laptop,1673.73,2023-03-14,Cash,Monthly,20.3,1,True,20.62,Social Media
+8721,Customer_112,49,Male,New York,Tablet,71.51,2022-04-17,Debit Card,Monthly,89.15,1,False,9.79,None
+8035,Customer_113,33,Male,Chicago,Headphones,1511.61,2023-10-20,Credit Card,None,75.25,2,False,25.66,Social Media
+2484,Customer_114,25,Male,Houston,Phone,1529.42,2023-02-24,Debit Card,Annual,90.91,2,False,6.53,None
+8858,Customer_115,55,Non-binary,Los Angeles,Tablet,1372.84,2023-09-03,Credit Card,None,76.11,5,True,22.03,Social Media
+1863,Customer_116,29,Non-binary,New York,Tablet,1524.72,2023-03-05,Debit Card,Annual,60.12,1,False,15.87,None
+3790,Customer_117,41,Male,Phoenix,Phone,1691.84,2023-01-10,Cash,Monthly,65.76,3,True,45.6,Advertisement
+8408,Customer_118,45,Female,Chicago,Phone,967.12,2022-03-14,Crypto,None,89.02,5,True,3.05,Advertisement
+9755,Customer_119,70,Female,Los Angeles,Laptop,1029.0,2023-09-26,Crypto,None,58.3,1,False,34.7,Advertisement
+6116,Customer_120,25,Female,Chicago,Tablet,293.19,2022-01-30,Credit Card,None,63.61,1,True,9.14,Social Media
+7019,Customer_121,75,Female,Los Angeles,Smartwatch,801.48,2022-07-07,Credit Card,Annual,16.49,2,False,15.95,Advertisement
+2757,Customer_122,45,Male,Los Angeles,Phone,1304.56,2022-12-30,Credit Card,Annual,47.92,5,True,20.78,Friend
+8574,Customer_123,53,Non-binary,New York,Phone,1571.78,2023-03-27,Cash,Monthly,71.92,1,False,45.4,Advertisement
+7374,Customer_124,43,Female,Chicago,Headphones,473.56,2022-07-14,Debit Card,Annual,27.82,1,True,12.13,None
+7892,Customer_125,25,Male,Chicago,Smartwatch,318.75,2022-06-05,Cash,Annual,21.02,5,True,4.57,None
+2678,Customer_126,75,Female,Phoenix,Smartwatch,1342.93,2022-06-21,Crypto,Monthly,32.07,3,True,15.93,None
+4242,Customer_127,77,Female,Phoenix,Phone,53.67,2022-02-10,Credit Card,None,24.91,5,True,5.23,Social Media
+5636,Customer_128,67,Male,New York,Laptop,397.83,2022-03-04,Debit Card,None,22.28,5,True,6.43,Friend
+2059,Customer_129,45,Non-binary,New York,Headphones,106.69,2022-01-23,Crypto,Monthly,43.06,3,False,28.69,Advertisement
+7668,Customer_130,45,Non-binary,Houston,Smartwatch,375.43,2022-12-26,Crypto,None,90.88,5,True,3.05,Friend
+4157,Customer_131,54,Male,Phoenix,Phone,403.57,2022-03-16,Crypto,Annual,51.2,1,False,1.55,Friend
+6915,Customer_132,58,Non-binary,Los Angeles,Smartwatch,805.96,2023-07-14,Cash,Monthly,19.6,5,False,35.72,None
+3693,Customer_133,53,Male,Chicago,Headphones,834.54,2023-11-03,Credit Card,Monthly,8.62,3,False,18.08,None
+4627,Customer_134,44,Male,New York,Headphones,1754.81,2022-04-28,Crypto,Monthly,69.92,4,True,6.27,None
+6450,Customer_135,71,Male,Chicago,Tablet,1044.71,2023-09-04,Credit Card,None,38.9,5,True,12.68,Social Media
+2663,Customer_136,34,Non-binary,Chicago,Phone,1460.64,2023-01-15,Cash,Monthly,82.36,2,True,32.1,Friend
+6592,Customer_137,26,Male,Houston,Headphones,253.07,2023-11-10,Crypto,Monthly,66.29,1,False,13.78,Friend
+8392,Customer_138,50,Female,Phoenix,Tablet,489.61,2022-10-17,Cash,Monthly,79.83,1,True,24.73,Social Media
+2306,Customer_139,70,Non-binary,New York,Tablet,1420.74,2023-03-16,Cash,None,27.92,2,True,6.08,Social Media
+7776,Customer_140,37,Non-binary,Chicago,Smartwatch,152.97,2023-10-30,Credit Card,Annual,69.54,2,False,29.4,Social Media
+6864,Customer_141,30,Non-binary,New York,Smartwatch,998.87,2022-01-07,Crypto,Monthly,27.14,5,False,15.8,Friend
+8526,Customer_142,45,Non-binary,Los Angeles,Tablet,1218.77,2022-07-15,Cash,Annual,93.97,2,False,31.35,Friend
+9901,Customer_143,65,Female,Houston,Smartwatch,1224.18,2023-02-25,Crypto,None,64.0,4,False,40.42,None
+6575,Customer_144,46,Non-binary,Los Angeles,Headphones,94.72,2023-07-22,Credit Card,None,33.13,3,False,30.58,None
+6530,Customer_145,30,Non-binary,New York,Laptop,678.11,2022-07-12,Cash,None,27.68,2,False,14.79,Friend
+5413,Customer_146,63,Male,New York,Headphones,1291.16,2023-07-13,Credit Card,None,19.9,2,True,12.79,None
+4748,Customer_147,52,Non-binary,Phoenix,Tablet,340.55,2022-05-28,Crypto,Annual,69.77,4,False,16.37,Social Media
+1663,Customer_148,78,Female,Chicago,Tablet,1406.06,2023-10-31,Crypto,Monthly,22.65,1,True,8.23,Advertisement
+2998,Customer_149,23,Female,Chicago,Headphones,1504.55,2022-07-21,Credit Card,None,59.94,1,True,9.06,None
+8994,Customer_150,35,Female,Los Angeles,Smartwatch,1964.84,2023-03-20,Debit Card,None,27.2,5,True,39.53,Friend
+2495,Customer_151,68,Female,Houston,Smartwatch,459.19,2023-02-23,Cash,Annual,66.53,4,False,19.24,None
+4304,Customer_152,22,Non-binary,Chicago,Tablet,1659.0,2023-03-03,Crypto,Annual,81.68,3,True,21.8,None
+4763,Customer_153,64,Non-binary,Phoenix,Phone,1064.58,2023-04-24,Crypto,None,78.02,3,False,29.7,None
+6232,Customer_154,42,Female,Los Angeles,Smartwatch,778.25,2023-04-20,Cash,Monthly,76.32,4,False,29.48,Advertisement
+2853,Customer_155,19,Female,Los Angeles,Headphones,288.63,2022-05-06,Credit Card,Monthly,19.58,3,True,3.37,Social Media
+7585,Customer_156,27,Non-binary,Phoenix,Smartwatch,1484.24,2023-01-30,Credit Card,None,9.75,1,False,41.58,Friend
+2291,Customer_157,73,Female,Houston,Headphones,509.92,2023-07-30,Credit Card,Annual,70.2,3,True,8.87,Advertisement
+4581,Customer_158,47,Male,Phoenix,Tablet,774.27,2022-11-21,Debit Card,None,37.47,3,True,36.15,Friend
+8554,Customer_159,67,Female,Houston,Smartwatch,171.96,2023-01-27,Debit Card,None,43.8,4,False,38.63,Friend
+8280,Customer_160,76,Female,Phoenix,Headphones,1612.67,2023-11-19,Crypto,Annual,4.08,4,True,35.74,Friend
+2636,Customer_161,62,Male,Phoenix,Tablet,1544.85,2023-09-20,Credit Card,None,26.7,3,True,28.95,Advertisement
+4696,Customer_162,22,Male,New York,Phone,1480.55,2023-03-16,Cash,None,4.33,2,True,0.73,Social Media
+1698,Customer_163,72,Non-binary,Los Angeles,Headphones,633.91,2022-07-23,Crypto,None,88.04,4,False,18.02,Friend
+5737,Customer_164,73,Non-binary,Phoenix,Phone,388.29,2023-05-01,Cash,Annual,25.1,5,True,30.24,Social Media
+1854,Customer_165,50,Male,Phoenix,Phone,1293.23,2022-01-31,Crypto,Monthly,56.18,5,False,19.37,Social Media
+9164,Customer_166,71,Male,Chicago,Laptop,1017.52,2023-01-23,Debit Card,Monthly,4.86,1,False,43.17,None
+6855,Customer_167,18,Non-binary,Los Angeles,Smartwatch,397.59,2023-09-17,Crypto,Annual,67.02,3,True,15.44,Advertisement
+8392,Customer_168,35,Female,Chicago,Headphones,1387.53,2023-03-10,Debit Card,Monthly,32.98,2,True,14.68,Advertisement
+7528,Customer_169,49,Male,Los Angeles,Phone,1982.7,2023-01-11,Crypto,None,89.89,1,False,13.3,None
+6249,Customer_170,64,Non-binary,Chicago,Laptop,1507.08,2022-12-10,Credit Card,Monthly,88.92,3,False,16.64,None
+6172,Customer_171,66,Female,Phoenix,Tablet,1492.97,2023-03-19,Cash,None,33.2,4,True,27.87,Social Media
+2707,Customer_172,28,Male,Phoenix,Headphones,1903.11,2023-08-02,Credit Card,Monthly,90.2,5,True,35.35,Friend
+6791,Customer_173,38,Female,New York,Phone,445.73,2022-03-16,Crypto,Annual,99.62,2,False,33.13,Advertisement
+6535,Customer_174,43,Non-binary,Chicago,Smartwatch,1152.82,2023-07-11,Crypto,Monthly,82.72,5,False,40.39,Friend
+5931,Customer_175,42,Male,Houston,Laptop,1960.31,2023-10-28,Crypto,Monthly,84.64,4,False,44.3,Friend
+4510,Customer_176,39,Female,New York,Phone,372.32,2022-06-04,Debit Card,Monthly,25.65,3,False,40.8,None
+1202,Customer_177,76,Male,Chicago,Smartwatch,1415.49,2023-03-06,Cash,Annual,58.09,4,False,0.95,Friend
+5218,Customer_178,44,Female,Chicago,Phone,1192.33,2022-12-29,Cash,Monthly,7.66,4,True,36.8,Social Media
+9958,Customer_179,66,Non-binary,New York,Headphones,1193.63,2023-03-24,Crypto,Annual,10.4,5,False,10.42,None
+5389,Customer_180,30,Non-binary,Phoenix,Headphones,1410.46,2022-08-22,Crypto,None,99.89,2,False,6.65,Friend
+3327,Customer_181,50,Male,Chicago,Headphones,1862.75,2023-07-17,Debit Card,Monthly,33.34,4,True,31.92,None
+9004,Customer_182,51,Female,Phoenix,Laptop,1576.03,2022-09-19,Credit Card,Annual,75.07,5,True,15.99,Social Media
+3931,Customer_183,58,Male,New York,Headphones,159.47,2022-05-05,Credit Card,Annual,80.86,2,False,2.86,Social Media
+8777,Customer_184,52,Male,Phoenix,Smartwatch,1712.82,2022-09-02,Cash,Monthly,85.94,3,False,6.88,Friend
+1197,Customer_185,18,Female,Los Angeles,Phone,489.81,2023-06-26,Debit Card,None,99.77,3,True,0.05,None
+8125,Customer_186,38,Female,Houston,Tablet,784.98,2023-04-30,Crypto,Annual,24.91,1,False,45.16,Friend
+2930,Customer_187,65,Female,Chicago,Smartwatch,950.38,2022-05-02,Cash,Monthly,4.99,5,False,1.23,Friend
+7287,Customer_188,72,Non-binary,Houston,Smartwatch,987.77,2022-05-05,Debit Card,None,41.71,2,True,10.47,None
+9800,Customer_189,23,Male,Phoenix,Headphones,898.6,2023-07-03,Credit Card,Annual,13.88,4,False,20.81,Friend
+5282,Customer_190,45,Male,Chicago,Laptop,1877.84,2022-06-19,Debit Card,Annual,3.22,3,True,17.83,Social Media
+3511,Customer_191,34,Non-binary,Phoenix,Phone,1426.74,2022-05-04,Credit Card,None,36.68,2,True,45.59,None
+1659,Customer_192,22,Female,Los Angeles,Laptop,1280.78,2022-02-04,Debit Card,None,78.59,5,True,2.01,None
+3811,Customer_193,48,Non-binary,New York,Phone,147.19,2022-03-28,Cash,Monthly,57.05,1,True,25.61,None
+8098,Customer_194,22,Non-binary,Chicago,Phone,1812.63,2023-10-08,Credit Card,Monthly,31.97,3,False,34.02,None
+7546,Customer_195,55,Non-binary,Los Angeles,Laptop,1823.31,2023-12-09,Cash,Annual,65.78,2,True,46.58,Friend
+2986,Customer_196,20,Male,Los Angeles,Smartwatch,1571.42,2022-07-20,Cash,None,23.97,2,False,31.02,Friend
+9338,Customer_197,70,Non-binary,Chicago,Phone,63.71,2023-01-04,Credit Card,None,2.42,2,False,40.19,Social Media
+3911,Customer_198,40,Male,Phoenix,Laptop,161.7,2022-03-18,Credit Card,None,76.67,5,False,4.19,Advertisement
+2734,Customer_199,54,Male,Los Angeles,Phone,489.19,2022-02-28,Crypto,Annual,62.75,5,False,19.3,Advertisement
+2843,Customer_200,70,Male,Houston,Tablet,306.13,2023-03-07,Crypto,None,76.47,5,False,18.7,Social Media
+9680,Customer_201,54,Female,Los Angeles,Smartwatch,827.73,2023-09-30,Crypto,None,4.85,4,True,44.31,Advertisement
+3976,Customer_202,27,Male,Phoenix,Headphones,1849.11,2023-05-15,Cash,Annual,83.87,2,True,7.57,Social Media
+2959,Customer_203,27,Male,Phoenix,Phone,970.52,2022-04-19,Cash,Monthly,62.33,3,True,7.59,Friend
+6759,Customer_204,36,Female,Houston,Tablet,76.14,2022-10-05,Crypto,Monthly,56.78,5,True,16.43,None
+7694,Customer_205,34,Male,Los Angeles,Headphones,601.35,2022-03-09,Cash,Annual,62.84,5,False,2.72,None
+3385,Customer_206,38,Non-binary,Phoenix,Headphones,136.96,2022-03-10,Cash,None,86.58,2,True,9.12,Friend
+5736,Customer_207,31,Non-binary,Chicago,Phone,120.76,2022-06-14,Credit Card,Annual,59.11,5,False,48.26,None
+2802,Customer_208,26,Male,New York,Laptop,587.65,2023-05-04,Credit Card,Monthly,58.51,4,False,21.41,None
+9155,Customer_209,63,Female,New York,Phone,587.44,2022-11-01,Cash,Monthly,99.08,4,True,31.6,Advertisement
+9120,Customer_210,18,Non-binary,New York,Tablet,1584.9,2023-11-05,Crypto,Annual,75.92,5,True,36.31,Friend
+7616,Customer_211,68,Female,Los Angeles,Headphones,1950.93,2022-12-31,Debit Card,Annual,44.79,2,True,18.35,Advertisement
+6534,Customer_212,62,Female,Houston,Phone,773.85,2023-01-14,Crypto,Monthly,71.03,2,True,7.36,Advertisement
+5061,Customer_213,30,Non-binary,Phoenix,Laptop,886.33,2022-12-09,Debit Card,Annual,39.53,2,False,10.33,None
+1262,Customer_214,21,Female,Chicago,Phone,1697.34,2023-07-08,Crypto,Monthly,23.66,1,False,15.66,None
+7287,Customer_215,79,Non-binary,Chicago,Smartwatch,572.87,2022-12-20,Credit Card,Annual,60.09,5,True,31.8,Friend
+9815,Customer_216,18,Female,Los Angeles,Laptop,354.94,2023-02-20,Cash,Annual,92.89,2,False,19.91,None
+3049,Customer_217,66,Non-binary,New York,Tablet,1713.52,2022-04-19,Cash,Annual,92.98,4,False,0.34,None
+6423,Customer_218,57,Male,Los Angeles,Headphones,140.68,2023-07-17,Credit Card,Monthly,34.85,3,False,26.17,Friend
+5548,Customer_219,49,Non-binary,Houston,Phone,1258.41,2023-05-12,Debit Card,Annual,53.24,3,True,46.08,None
+4108,Customer_220,51,Non-binary,Houston,Laptop,1145.89,2022-12-07,Debit Card,Monthly,21.95,2,False,40.6,Advertisement
+8158,Customer_221,45,Non-binary,Phoenix,Smartwatch,724.54,2023-01-18,Debit Card,Monthly,99.57,3,True,41.26,Friend
+8400,Customer_222,48,Non-binary,Phoenix,Laptop,664.62,2023-06-17,Credit Card,Annual,98.13,3,True,39.75,None
+4170,Customer_223,25,Female,Houston,Smartwatch,1555.12,2022-10-27,Debit Card,Annual,65.3,1,False,16.19,Social Media
+3255,Customer_224,56,Male,Houston,Tablet,218.53,2022-05-19,Credit Card,Monthly,80.64,4,False,38.26,Friend
+2154,Customer_225,43,Non-binary,Houston,Headphones,511.73,2022-12-25,Crypto,Monthly,71.79,4,True,7.16,Friend
+5499,Customer_226,75,Female,Los Angeles,Tablet,1478.28,2023-05-14,Crypto,None,59.72,1,False,32.89,Social Media
+7295,Customer_227,51,Male,Houston,Phone,1119.23,2023-01-20,Credit Card,Monthly,6.28,1,False,32.08,None
+7197,Customer_228,71,Male,Chicago,Laptop,299.58,2023-08-27,Cash,None,46.02,3,True,1.28,None
+2648,Customer_229,71,Male,New York,Smartwatch,1770.16,2022-10-07,Crypto,None,67.8,5,True,39.4,Friend
+6539,Customer_230,20,Male,Houston,Smartwatch,817.22,2023-09-29,Debit Card,None,68.08,3,True,45.16,Friend
+5199,Customer_231,76,Non-binary,New York,Laptop,1664.34,2023-04-28,Credit Card,Annual,37.94,1,True,13.37,None
+9445,Customer_232,67,Non-binary,Los Angeles,Laptop,1586.04,2022-04-21,Debit Card,Annual,94.23,4,False,40.62,None
+3557,Customer_233,29,Female,New York,Phone,1267.63,2022-05-19,Debit Card,Monthly,17.57,3,False,4.12,Advertisement
+6592,Customer_234,18,Female,Los Angeles,Tablet,1014.24,2023-03-11,Cash,None,50.54,5,True,30.0,Friend
+1098,Customer_235,71,Female,Chicago,Smartwatch,1960.12,2023-05-24,Debit Card,Annual,69.4,3,True,24.28,Friend
+3200,Customer_236,61,Male,Los Angeles,Phone,332.68,2022-09-30,Cash,Annual,70.02,2,True,27.3,Social Media
+3961,Customer_237,22,Male,Los Angeles,Tablet,1464.05,2022-04-09,Crypto,Annual,65.22,3,False,46.31,Advertisement
+5973,Customer_238,47,Non-binary,Phoenix,Phone,422.82,2022-04-14,Credit Card,Annual,28.25,1,True,43.57,None
+5433,Customer_239,47,Male,Houston,Smartwatch,709.61,2022-08-02,Debit Card,Annual,16.46,4,False,39.25,Advertisement
+3869,Customer_240,76,Male,Houston,Laptop,651.96,2023-10-26,Credit Card,None,63.96,4,True,13.68,None
+1956,Customer_241,74,Male,Chicago,Laptop,1896.72,2022-06-14,Debit Card,None,60.33,1,True,45.59,None
+9352,Customer_242,34,Female,Chicago,Tablet,1936.34,2023-06-04,Credit Card,None,18.76,2,True,4.88,Advertisement
+6699,Customer_243,65,Female,Houston,Headphones,406.88,2022-10-11,Debit Card,None,70.81,1,False,42.67,Friend
+7944,Customer_244,64,Non-binary,Phoenix,Tablet,92.97,2023-06-01,Debit Card,Monthly,46.06,3,False,16.41,None
+5493,Customer_245,40,Male,Houston,Headphones,1454.02,2023-10-19,Debit Card,None,67.11,1,False,2.69,Advertisement
+5911,Customer_246,32,Male,Phoenix,Phone,865.08,2023-09-05,Debit Card,Annual,83.9,1,True,33.47,Social Media
+4987,Customer_247,54,Non-binary,Chicago,Phone,223.24,2022-06-13,Debit Card,None,17.8,2,False,11.56,Advertisement
+7015,Customer_248,38,Male,New York,Smartwatch,1383.32,2023-10-21,Debit Card,Monthly,2.9,3,False,12.18,Social Media
+2218,Customer_249,31,Male,Chicago,Headphones,1112.96,2022-03-05,Debit Card,Annual,78.13,5,True,15.3,None
+5496,Customer_250,19,Female,Chicago,Smartwatch,1962.01,2022-04-01,Debit Card,None,61.36,5,True,3.18,Advertisement
+5735,Customer_251,28,Non-binary,Los Angeles,Laptop,493.45,2022-04-27,Debit Card,None,70.26,4,False,8.86,Advertisement
+5555,Customer_252,68,Non-binary,Los Angeles,Headphones,837.76,2022-09-24,Credit Card,None,83.98,1,False,0.26,Social Media
+9050,Customer_253,56,Non-binary,Los Angeles,Tablet,1107.96,2023-11-16,Cash,Annual,80.48,4,False,22.27,Advertisement
+4446,Customer_254,55,Non-binary,Los Angeles,Laptop,1593.81,2023-07-13,Debit Card,Annual,96.13,2,False,4.21,Advertisement
+2045,Customer_255,77,Female,Phoenix,Laptop,1120.24,2022-05-20,Cash,Monthly,54.06,5,True,34.13,None
+7893,Customer_256,51,Female,Houston,Tablet,1245.16,2022-09-03,Debit Card,Annual,49.36,1,True,11.78,Advertisement
+2693,Customer_257,55,Male,New York,Laptop,490.99,2023-10-23,Debit Card,Annual,40.79,2,True,47.18,Friend
+4436,Customer_258,67,Male,Chicago,Headphones,1701.49,2023-01-30,Credit Card,None,16.22,2,False,43.56,Social Media
+9754,Customer_259,51,Male,Phoenix,Smartwatch,885.83,2023-05-02,Crypto,Annual,57.69,1,False,14.47,Advertisement
+6895,Customer_260,35,Male,New York,Laptop,324.87,2023-04-21,Crypto,None,28.42,2,True,39.16,Social Media
+4354,Customer_261,47,Female,Phoenix,Headphones,1345.17,2023-06-01,Credit Card,None,92.21,1,True,40.16,Social Media
+1225,Customer_262,32,Non-binary,Phoenix,Phone,471.38,2022-07-03,Cash,Annual,58.74,1,False,49.33,Social Media
+5893,Customer_263,44,Female,Chicago,Headphones,240.25,2022-01-20,Crypto,Monthly,59.69,3,False,29.89,Advertisement
+8022,Customer_264,68,Male,Houston,Smartwatch,1730.87,2023-07-12,Credit Card,Monthly,36.14,4,True,4.1,Advertisement
+6600,Customer_265,51,Female,Los Angeles,Headphones,947.32,2023-06-08,Credit Card,Annual,6.15,2,True,32.34,Social Media
+8996,Customer_266,69,Non-binary,Houston,Tablet,1511.1,2023-08-05,Crypto,Monthly,4.14,2,True,31.25,Friend
+8683,Customer_267,74,Non-binary,Chicago,Smartwatch,616.65,2023-06-13,Cash,None,42.91,3,False,31.92,Social Media
+5642,Customer_268,55,Female,Chicago,Phone,1584.59,2022-05-27,Credit Card,None,9.37,3,False,15.36,Friend
+8679,Customer_269,50,Female,Chicago,Tablet,268.28,2023-10-28,Debit Card,Annual,61.08,3,False,42.98,Social Media
+9208,Customer_270,41,Female,New York,Headphones,744.15,2022-10-31,Cash,Monthly,88.22,5,False,47.97,None
+8339,Customer_271,32,Male,Houston,Smartwatch,1957.22,2023-09-12,Cash,Monthly,88.41,5,False,10.89,Social Media
+3205,Customer_272,77,Female,Houston,Phone,1598.28,2023-08-05,Crypto,None,66.25,5,False,4.41,Social Media
+2069,Customer_273,47,Female,Phoenix,Tablet,1019.65,2023-11-26,Crypto,Annual,21.91,1,True,9.73,Advertisement
+4444,Customer_274,72,Female,Phoenix,Phone,712.57,2022-08-16,Debit Card,Monthly,86.44,2,True,41.03,Friend
+2060,Customer_275,59,Non-binary,Phoenix,Headphones,1750.66,2022-04-12,Credit Card,Annual,88.72,4,False,33.83,None
+3327,Customer_276,68,Non-binary,Chicago,Phone,1112.45,2023-08-10,Crypto,Monthly,20.47,1,True,31.8,Friend
+4420,Customer_277,34,Male,Houston,Laptop,1528.93,2023-02-21,Crypto,None,74.01,2,False,20.09,None
+1301,Customer_278,22,Male,Chicago,Tablet,1520.51,2022-08-04,Cash,None,29.37,2,True,28.89,Social Media
+1606,Customer_279,46,Non-binary,New York,Phone,84.99,2023-02-11,Crypto,Annual,80.46,3,False,15.39,Advertisement
+4170,Customer_280,21,Non-binary,Phoenix,Headphones,296.19,2023-02-03,Crypto,None,99.73,3,True,23.86,Advertisement
+1699,Customer_281,27,Non-binary,Chicago,Headphones,1336.28,2023-12-16,Crypto,Monthly,3.97,1,True,39.65,Friend
+6088,Customer_282,73,Female,Chicago,Phone,365.16,2023-12-05,Crypto,None,89.84,3,False,49.06,Advertisement
+1190,Customer_283,34,Female,New York,Headphones,548.21,2023-05-14,Cash,Annual,62.64,2,False,46.62,Friend
+1980,Customer_284,27,Non-binary,Los Angeles,Smartwatch,1895.94,2023-04-10,Debit Card,Annual,97.36,3,True,46.69,Friend
+3975,Customer_285,34,Female,Houston,Smartwatch,1142.36,2023-11-22,Debit Card,Annual,47.04,5,True,20.11,None
+7102,Customer_286,77,Female,Los Angeles,Smartwatch,1513.92,2022-03-23,Credit Card,Monthly,84.89,3,False,23.44,Friend
+2184,Customer_287,37,Male,Phoenix,Laptop,1138.06,2023-08-27,Crypto,Monthly,7.18,2,True,35.28,None
+4327,Customer_288,41,Non-binary,Chicago,Phone,1127.4,2023-11-18,Cash,Monthly,34.19,1,False,46.11,Advertisement
+4394,Customer_289,22,Non-binary,New York,Laptop,233.6,2022-12-31,Credit Card,Monthly,7.63,4,False,7.1,Friend
+9319,Customer_290,51,Female,New York,Headphones,720.14,2022-06-12,Credit Card,Monthly,97.56,3,True,15.21,Friend
+2816,Customer_291,23,Non-binary,Houston,Laptop,600.74,2022-02-17,Debit Card,None,81.88,2,False,6.96,Social Media
+6854,Customer_292,70,Male,Los Angeles,Headphones,811.92,2023-05-26,Cash,Monthly,85.4,4,True,30.6,Friend
+7709,Customer_293,19,Male,Houston,Headphones,1606.77,2022-11-25,Cash,Monthly,93.86,4,True,15.32,Friend
+1569,Customer_294,30,Male,Chicago,Tablet,775.27,2022-04-26,Cash,None,9.43,5,False,16.31,Social Media
+6442,Customer_295,79,Non-binary,Houston,Smartwatch,930.81,2022-12-03,Debit Card,Monthly,39.17,4,True,3.55,Social Media
+2895,Customer_296,60,Non-binary,New York,Headphones,824.89,2022-05-27,Debit Card,Annual,8.03,2,False,17.49,Advertisement
+3733,Customer_297,60,Non-binary,New York,Tablet,232.15,2023-07-29,Debit Card,Monthly,21.87,2,False,43.12,Friend
+4863,Customer_298,65,Non-binary,Phoenix,Smartwatch,910.09,2022-11-19,Debit Card,Monthly,23.71,3,False,11.65,Advertisement
+8455,Customer_299,28,Non-binary,Phoenix,Headphones,431.44,2023-03-19,Debit Card,Annual,47.44,3,True,34.76,Advertisement
+5014,Customer_300,68,Male,Chicago,Headphones,414.11,2022-01-13,Crypto,Annual,27.59,3,False,31.48,Social Media
+2686,Customer_301,64,Female,Los Angeles,Laptop,233.37,2023-05-09,Crypto,Annual,11.0,4,True,43.17,None
+4009,Customer_302,74,Male,Houston,Laptop,745.51,2023-12-02,Cash,Annual,17.58,4,False,6.61,Advertisement
+8806,Customer_303,40,Non-binary,Chicago,Smartwatch,1527.09,2022-10-14,Credit Card,Monthly,15.58,5,False,48.88,None
+1154,Customer_304,72,Male,Phoenix,Headphones,589.06,2023-12-21,Cash,Annual,97.33,3,False,29.13,Friend
+2409,Customer_305,33,Non-binary,Houston,Phone,659.08,2022-04-24,Credit Card,Annual,76.17,1,True,49.77,Social Media
+1784,Customer_306,48,Non-binary,Phoenix,Laptop,1303.22,2023-04-25,Debit Card,None,96.81,5,True,45.58,Friend
+9096,Customer_307,28,Male,Houston,Smartwatch,431.89,2022-01-22,Credit Card,Annual,44.53,1,False,11.08,Friend
+8560,Customer_308,71,Non-binary,Los Angeles,Headphones,1799.07,2022-12-15,Cash,Annual,28.56,4,False,2.81,Social Media
+8343,Customer_309,33,Female,Chicago,Headphones,1064.37,2023-12-27,Cash,None,80.03,5,True,12.78,Friend
+8206,Customer_310,25,Non-binary,Houston,Phone,922.83,2023-11-14,Credit Card,None,33.3,5,True,26.38,Social Media
+6596,Customer_311,21,Female,New York,Smartwatch,1137.75,2023-07-20,Crypto,Monthly,30.64,2,True,8.58,None
+6801,Customer_312,57,Female,New York,Headphones,373.77,2022-11-16,Debit Card,None,24.02,4,False,8.37,Friend
+3806,Customer_313,21,Non-binary,Houston,Laptop,1246.27,2022-05-06,Debit Card,Monthly,13.84,4,True,23.13,Social Media
+1537,Customer_314,73,Male,Houston,Phone,758.05,2022-10-04,Cash,None,26.39,5,False,1.66,Advertisement
+6986,Customer_315,42,Female,Houston,Smartwatch,1799.51,2022-07-23,Crypto,None,36.18,4,True,6.09,Friend
+2841,Customer_316,20,Male,New York,Phone,379.27,2022-07-13,Credit Card,Monthly,67.73,5,False,20.79,None
+9716,Customer_317,49,Female,New York,Laptop,1038.75,2023-11-12,Debit Card,None,7.19,2,False,3.16,Social Media
+7971,Customer_318,20,Non-binary,Houston,Smartwatch,1216.32,2023-10-26,Crypto,Monthly,21.84,5,False,19.84,Friend
+6625,Customer_319,44,Non-binary,Phoenix,Phone,115.1,2023-07-01,Debit Card,None,81.09,4,True,23.7,Friend
+3950,Customer_320,46,Female,Phoenix,Tablet,759.2,2023-11-27,Crypto,Annual,15.55,4,True,22.56,Friend
+8992,Customer_321,49,Non-binary,Los Angeles,Laptop,1478.64,2022-10-13,Crypto,None,34.92,5,True,43.46,None
+5780,Customer_322,67,Female,Chicago,Laptop,1649.74,2022-02-26,Cash,Monthly,86.6,5,False,26.5,Social Media
+3368,Customer_323,78,Non-binary,Phoenix,Laptop,660.67,2022-10-30,Debit Card,None,16.34,5,False,23.4,Advertisement
+7655,Customer_324,75,Male,New York,Tablet,1607.26,2022-06-12,Credit Card,Monthly,9.19,3,True,20.54,Advertisement
+9173,Customer_325,68,Non-binary,Phoenix,Tablet,1937.12,2022-01-19,Cash,Monthly,48.97,4,False,40.88,Advertisement
+5495,Customer_326,36,Male,Los Angeles,Headphones,1720.9,2023-01-05,Cash,Annual,30.94,4,False,44.75,Social Media
+7002,Customer_327,38,Non-binary,Los Angeles,Phone,279.41,2022-09-21,Credit Card,Annual,56.78,3,False,42.66,Advertisement
+7614,Customer_328,22,Male,Chicago,Headphones,1492.47,2022-04-23,Cash,Monthly,80.58,5,True,33.68,None
+6919,Customer_329,35,Non-binary,Phoenix,Phone,673.35,2023-05-03,Crypto,None,14.58,2,False,6.87,Social Media
+1853,Customer_330,45,Male,New York,Tablet,1977.41,2022-11-23,Crypto,Monthly,58.49,5,True,13.84,Friend
+5146,Customer_331,59,Female,New York,Tablet,996.45,2023-06-26,Debit Card,Monthly,51.05,5,True,2.3,None
+4769,Customer_332,78,Female,Houston,Headphones,288.75,2023-10-09,Debit Card,None,15.26,3,True,46.54,Friend
+1574,Customer_333,39,Male,New York,Smartwatch,1464.11,2023-08-02,Credit Card,None,62.78,4,True,33.04,Advertisement
+2148,Customer_334,38,Non-binary,Chicago,Headphones,679.87,2022-03-06,Debit Card,None,28.09,5,True,37.32,None
+7293,Customer_335,23,Male,Chicago,Phone,1994.3,2022-10-19,Crypto,None,49.3,4,False,15.58,Social Media
+7457,Customer_336,18,Non-binary,New York,Headphones,1960.58,2022-01-25,Credit Card,Monthly,9.14,1,True,42.28,None
+8509,Customer_337,22,Female,New York,Laptop,1329.46,2023-07-03,Credit Card,Monthly,46.5,4,True,12.98,Friend
+5777,Customer_338,58,Non-binary,Houston,Phone,303.16,2022-01-01,Debit Card,Annual,31.34,2,True,0.08,Social Media
+4854,Customer_339,29,Female,New York,Phone,1389.38,2023-07-03,Crypto,Monthly,82.42,2,False,18.82,None
+3491,Customer_340,43,Non-binary,Houston,Smartwatch,231.41,2022-05-21,Credit Card,None,6.64,5,False,28.54,None
+4124,Customer_341,63,Non-binary,Houston,Tablet,107.26,2023-10-10,Crypto,Annual,42.44,4,False,23.94,None
+6691,Customer_342,51,Non-binary,New York,Phone,1654.77,2022-07-07,Crypto,None,46.38,5,False,43.1,None
+4051,Customer_343,66,Male,Los Angeles,Tablet,459.02,2022-05-08,Crypto,Monthly,72.78,3,True,5.27,Social Media
+1004,Customer_344,31,Male,Los Angeles,Headphones,789.1,2022-07-20,Debit Card,Annual,57.85,2,True,27.69,Friend
+6222,Customer_345,43,Female,Houston,Laptop,1948.24,2022-05-07,Cash,None,67.05,5,False,25.65,None
+6315,Customer_346,62,Female,New York,Smartwatch,706.84,2022-09-14,Cash,Annual,77.93,3,False,14.07,Social Media
+5869,Customer_347,44,Male,Los Angeles,Tablet,628.16,2023-11-07,Credit Card,Annual,86.36,5,False,41.11,Friend
+1876,Customer_348,26,Female,New York,Phone,1840.51,2023-07-01,Crypto,Monthly,32.07,4,False,37.64,None
+8027,Customer_349,43,Male,New York,Tablet,265.96,2022-07-13,Debit Card,None,54.26,4,True,36.64,Friend
+5142,Customer_350,74,Non-binary,New York,Phone,1531.19,2023-12-04,Crypto,Annual,84.17,4,False,43.81,Friend
+7966,Customer_351,64,Female,Phoenix,Tablet,1976.73,2022-04-14,Crypto,Annual,98.96,4,False,36.14,Social Media
+8079,Customer_352,74,Female,New York,Phone,1807.53,2023-06-19,Debit Card,None,89.06,1,False,11.59,Friend
+8987,Customer_353,39,Male,Phoenix,Headphones,1320.75,2022-09-22,Cash,Annual,37.78,3,False,35.28,Social Media
+7799,Customer_354,64,Female,Houston,Phone,662.42,2023-01-19,Crypto,Annual,20.32,3,False,15.39,None
+5465,Customer_355,73,Female,Los Angeles,Phone,545.93,2022-09-17,Crypto,Annual,49.45,4,False,12.11,Friend
+1635,Customer_356,47,Non-binary,Los Angeles,Laptop,1647.55,2023-02-18,Cash,None,74.42,1,False,3.65,Friend
+2693,Customer_357,60,Female,Los Angeles,Phone,1765.65,2022-12-24,Debit Card,None,49.76,4,True,37.2,Advertisement
+5752,Customer_358,65,Non-binary,Los Angeles,Laptop,1074.6,2022-03-16,Credit Card,None,48.83,1,True,35.55,None
+9311,Customer_359,78,Male,Los Angeles,Smartwatch,526.46,2022-12-21,Cash,None,83.98,4,True,11.72,None
+1830,Customer_360,34,Female,Los Angeles,Laptop,270.24,2023-08-07,Credit Card,Monthly,36.78,2,True,37.47,Advertisement
+6177,Customer_361,43,Non-binary,Los Angeles,Headphones,220.0,2022-07-07,Credit Card,Annual,86.12,2,True,45.89,Advertisement
+9932,Customer_362,53,Male,Houston,Laptop,1452.2,2023-11-16,Cash,None,41.27,5,True,5.4,Social Media
+9308,Customer_363,18,Female,New York,Smartwatch,869.23,2022-10-17,Crypto,Annual,33.5,4,False,11.63,Social Media
+6949,Customer_364,25,Male,Chicago,Headphones,1815.45,2022-02-14,Credit Card,Annual,45.95,3,False,37.51,Friend
+3838,Customer_365,66,Female,Phoenix,Tablet,1492.36,2023-07-27,Credit Card,Monthly,76.48,5,True,13.73,Friend
+2150,Customer_366,52,Male,Chicago,Tablet,422.96,2022-03-24,Debit Card,None,13.47,2,False,31.23,Friend
+8560,Customer_367,78,Male,Chicago,Laptop,1246.87,2022-05-03,Crypto,None,20.45,4,True,4.06,Friend
+2931,Customer_368,69,Non-binary,New York,Laptop,899.24,2022-12-24,Credit Card,Annual,95.19,5,False,22.61,Social Media
+2664,Customer_369,32,Male,New York,Smartwatch,1175.64,2023-06-12,Debit Card,None,18.37,4,False,36.95,None
+2081,Customer_370,64,Female,New York,Smartwatch,1489.23,2022-03-07,Crypto,Annual,57.21,2,False,34.33,Friend
+1512,Customer_371,73,Female,Los Angeles,Phone,1622.08,2023-10-19,Cash,Annual,58.35,5,False,40.75,None
+8805,Customer_372,39,Non-binary,Houston,Smartwatch,1695.29,2023-01-10,Cash,Monthly,49.47,2,False,43.87,Friend
+6237,Customer_373,31,Female,Los Angeles,Phone,545.25,2022-06-11,Debit Card,Monthly,64.83,1,False,38.66,Advertisement
+1559,Customer_374,43,Female,Houston,Headphones,110.68,2023-01-15,Cash,Monthly,23.75,2,True,33.58,Friend
+4672,Customer_375,45,Female,Houston,Laptop,1491.62,2023-10-18,Credit Card,Annual,55.71,4,True,1.59,Friend
+8404,Customer_376,40,Male,Chicago,Headphones,257.37,2022-12-24,Crypto,None,37.85,3,False,26.75,Friend
+4343,Customer_377,31,Male,Chicago,Smartwatch,664.09,2022-07-07,Credit Card,Monthly,66.51,2,True,1.88,Social Media
+5070,Customer_378,41,Female,Houston,Headphones,57.44,2022-11-18,Credit Card,None,14.98,3,False,40.4,Advertisement
+1580,Customer_379,19,Non-binary,Houston,Headphones,1379.26,2023-03-26,Cash,Monthly,57.52,1,True,16.04,Friend
+8004,Customer_380,62,Male,Los Angeles,Headphones,375.91,2023-04-19,Credit Card,Monthly,19.34,5,False,28.12,Friend
+9130,Customer_381,43,Non-binary,Los Angeles,Smartwatch,1327.8,2022-01-13,Cash,Annual,28.59,5,True,13.97,None
+4147,Customer_382,31,Female,Chicago,Headphones,1983.9,2022-07-03,Crypto,Monthly,22.65,3,False,39.13,Advertisement
+5249,Customer_383,76,Female,New York,Phone,191.71,2022-04-21,Crypto,Monthly,19.1,5,True,44.33,Friend
+2679,Customer_384,73,Male,Houston,Smartwatch,200.3,2023-05-23,Credit Card,Annual,82.75,2,False,19.93,None
+4506,Customer_385,68,Female,Los Angeles,Headphones,713.74,2022-10-17,Debit Card,None,29.29,3,True,43.15,None
+8253,Customer_386,24,Male,Chicago,Smartwatch,1739.45,2022-10-22,Cash,Monthly,92.79,4,False,13.35,Social Media
+3744,Customer_387,20,Female,Los Angeles,Tablet,470.28,2023-03-27,Cash,Annual,97.02,2,False,26.73,None
+6188,Customer_388,64,Female,Houston,Phone,752.74,2022-08-03,Credit Card,Monthly,57.55,2,False,42.94,Friend
+3141,Customer_389,40,Male,Houston,Headphones,183.59,2023-09-24,Cash,Annual,15.16,2,True,16.29,Social Media
+7617,Customer_390,63,Male,Phoenix,Tablet,1538.15,2023-07-21,Cash,None,38.08,4,True,47.7,Social Media
+3479,Customer_391,60,Male,New York,Tablet,846.2,2022-01-27,Debit Card,None,79.98,1,True,6.09,Friend
+7484,Customer_392,64,Female,Phoenix,Smartwatch,1530.54,2023-09-22,Debit Card,Annual,37.37,5,False,0.91,Advertisement
+8421,Customer_393,77,Female,Chicago,Tablet,1812.04,2022-08-19,Credit Card,Annual,9.61,3,True,45.21,None
+5452,Customer_394,62,Non-binary,Los Angeles,Phone,503.89,2023-07-19,Debit Card,Annual,56.12,1,False,3.43,Social Media
+6881,Customer_395,35,Male,Chicago,Phone,1624.42,2022-11-17,Credit Card,None,84.67,3,True,49.59,Advertisement
+7665,Customer_396,75,Female,Houston,Laptop,165.23,2022-08-21,Crypto,Monthly,79.8,5,True,47.57,Friend
+3849,Customer_397,55,Female,Phoenix,Phone,1802.75,2023-11-01,Credit Card,None,18.34,4,True,6.85,None
+8390,Customer_398,52,Male,Phoenix,Tablet,1319.0,2023-03-13,Crypto,Annual,67.6,2,True,26.88,None
+7905,Customer_399,68,Non-binary,Phoenix,Phone,1754.74,2023-06-17,Credit Card,Annual,22.83,2,False,9.25,Social Media
+3489,Customer_400,32,Male,Chicago,Smartwatch,50.37,2023-02-07,Cash,None,22.6,4,True,21.41,None
+5611,Customer_401,42,Non-binary,Houston,Laptop,379.71,2022-02-22,Debit Card,Annual,87.53,1,True,3.07,None
+3839,Customer_402,72,Female,Los Angeles,Tablet,810.03,2022-11-09,Crypto,None,25.72,1,False,11.2,None
+9527,Customer_403,54,Non-binary,Los Angeles,Laptop,790.03,2022-10-08,Credit Card,Annual,27.06,3,False,18.16,None
+6878,Customer_404,45,Female,Chicago,Tablet,492.12,2023-12-27,Debit Card,Monthly,1.06,4,True,21.93,Friend
+7303,Customer_405,27,Male,Phoenix,Smartwatch,794.14,2022-01-31,Credit Card,Monthly,87.2,1,True,48.87,Advertisement
+1851,Customer_406,56,Male,New York,Laptop,301.25,2022-12-03,Debit Card,Annual,79.47,4,False,40.39,Friend
+2687,Customer_407,74,Male,Chicago,Headphones,854.88,2022-07-02,Debit Card,None,63.11,5,False,36.87,Friend
+7833,Customer_408,34,Non-binary,Chicago,Tablet,1614.59,2022-01-23,Credit Card,Monthly,75.28,2,False,26.85,Social Media
+3427,Customer_409,56,Female,Houston,Headphones,984.19,2023-06-28,Crypto,None,16.05,2,True,42.0,None
+5000,Customer_410,39,Male,Los Angeles,Laptop,85.1,2023-03-22,Crypto,Annual,46.37,2,True,16.97,Friend
+6052,Customer_411,43,Male,Chicago,Headphones,871.82,2022-03-15,Cash,None,35.77,4,True,35.44,None
+3738,Customer_412,79,Female,Chicago,Headphones,102.99,2022-01-10,Debit Card,Monthly,10.28,4,False,49.69,Friend
+6732,Customer_413,61,Male,Phoenix,Laptop,1934.17,2023-04-29,Cash,None,49.13,3,False,15.73,Friend
+6387,Customer_414,42,Female,Phoenix,Smartwatch,298.54,2023-04-01,Cash,None,92.15,2,False,33.7,Social Media
+9002,Customer_415,34,Female,New York,Headphones,1429.99,2023-07-20,Credit Card,Annual,4.97,3,True,42.22,Advertisement
+6536,Customer_416,30,Female,Houston,Headphones,1946.91,2023-07-18,Credit Card,Annual,29.85,2,False,45.79,Advertisement
+4913,Customer_417,37,Female,New York,Smartwatch,1660.78,2023-10-22,Credit Card,Annual,21.55,3,True,35.9,Friend
+2066,Customer_418,42,Female,Phoenix,Headphones,1413.66,2022-06-09,Debit Card,Monthly,24.58,3,False,14.18,Social Media
+8723,Customer_419,21,Non-binary,Los Angeles,Headphones,1686.95,2022-01-14,Credit Card,Monthly,90.94,5,True,16.31,None
+5380,Customer_420,27,Male,Phoenix,Headphones,1964.51,2022-06-27,Credit Card,Annual,47.34,3,True,1.04,None
+5107,Customer_421,20,Non-binary,Houston,Phone,1261.62,2023-02-16,Debit Card,Annual,47.16,4,False,38.04,Friend
+6726,Customer_422,58,Male,Phoenix,Smartwatch,1140.41,2022-02-22,Debit Card,Monthly,76.3,3,True,2.14,Advertisement
+4373,Customer_423,62,Non-binary,Houston,Headphones,1275.06,2023-02-12,Crypto,Monthly,16.29,2,False,43.23,Social Media
+9945,Customer_424,35,Female,Houston,Smartwatch,1088.72,2022-01-22,Credit Card,Monthly,49.24,3,True,5.93,Advertisement
+3082,Customer_425,64,Male,Houston,Tablet,1288.42,2022-01-30,Credit Card,Monthly,43.57,1,False,8.59,None
+9967,Customer_426,53,Male,Houston,Tablet,927.19,2023-12-04,Credit Card,Annual,60.09,2,False,23.83,Advertisement
+7748,Customer_427,64,Non-binary,Houston,Headphones,475.96,2022-09-17,Crypto,Monthly,99.96,1,True,36.89,None
+1417,Customer_428,39,Non-binary,Los Angeles,Smartwatch,284.48,2022-07-24,Credit Card,Annual,77.18,2,False,6.95,Social Media
+9306,Customer_429,51,Male,New York,Smartwatch,183.26,2022-02-28,Crypto,None,40.39,4,True,22.0,Social Media
+9808,Customer_430,64,Non-binary,Chicago,Smartwatch,563.47,2023-04-16,Cash,None,82.93,4,False,24.14,Friend
+4974,Customer_431,25,Non-binary,New York,Phone,139.94,2023-04-11,Crypto,Monthly,17.9,4,False,10.61,Friend
+4267,Customer_432,57,Non-binary,Houston,Tablet,1155.98,2022-01-12,Cash,None,4.02,1,False,5.78,Advertisement
+1825,Customer_433,66,Female,Los Angeles,Smartwatch,603.47,2023-09-23,Credit Card,None,21.24,5,False,41.82,Social Media
+8668,Customer_434,61,Female,Phoenix,Smartwatch,1657.84,2022-10-17,Cash,None,34.7,2,True,25.12,Social Media
+6745,Customer_435,36,Non-binary,Los Angeles,Phone,194.77,2022-12-20,Crypto,Monthly,51.55,4,False,0.72,Friend
+1412,Customer_436,59,Non-binary,Houston,Phone,491.39,2023-10-01,Debit Card,Monthly,61.9,2,False,40.15,None
+8543,Customer_437,58,Female,Los Angeles,Smartwatch,1473.98,2022-03-16,Cash,None,91.15,1,True,49.04,Advertisement
+8587,Customer_438,54,Female,Los Angeles,Laptop,1217.68,2023-12-17,Cash,Annual,51.48,5,True,30.3,Advertisement
+1728,Customer_439,23,Male,Houston,Smartwatch,175.76,2023-07-15,Credit Card,None,50.63,1,True,25.19,Friend
+8164,Customer_440,69,Male,Los Angeles,Smartwatch,1760.62,2023-08-14,Crypto,Monthly,5.97,2,True,43.92,Social Media
+9867,Customer_441,43,Female,Chicago,Phone,1760.66,2023-03-17,Cash,Monthly,4.46,5,True,47.63,Friend
+6988,Customer_442,51,Non-binary,Chicago,Phone,694.3,2022-08-29,Cash,Monthly,55.56,5,True,37.73,Friend
+3504,Customer_443,76,Non-binary,Los Angeles,Smartwatch,713.79,2022-06-03,Cash,None,44.38,1,False,22.27,Friend
+3967,Customer_444,73,Non-binary,Phoenix,Smartwatch,1978.61,2022-04-06,Cash,Annual,84.08,4,True,29.61,Friend
+3786,Customer_445,76,Non-binary,Houston,Smartwatch,1271.04,2023-12-27,Debit Card,Monthly,16.91,2,False,35.05,None
+2122,Customer_446,62,Male,Chicago,Phone,1086.07,2022-10-21,Crypto,Monthly,3.47,3,True,9.71,None
+5079,Customer_447,23,Female,Phoenix,Smartwatch,1684.4,2022-07-28,Credit Card,None,45.45,3,False,22.36,Social Media
+2571,Customer_448,54,Non-binary,Los Angeles,Smartwatch,606.32,2022-12-09,Credit Card,Annual,24.51,1,False,41.49,Friend
+6073,Customer_449,74,Male,Phoenix,Headphones,886.91,2022-03-29,Debit Card,None,5.91,2,False,32.74,None
+6104,Customer_450,50,Non-binary,New York,Laptop,572.16,2023-01-25,Crypto,Monthly,72.74,2,True,20.56,Social Media
+3143,Customer_451,70,Female,Chicago,Tablet,1588.86,2022-11-21,Cash,Annual,12.05,1,True,33.17,Friend
+7806,Customer_452,39,Male,Los Angeles,Laptop,1168.03,2022-06-06,Debit Card,Annual,61.22,2,True,5.91,Advertisement
+8357,Customer_453,38,Female,Houston,Headphones,1334.71,2023-10-30,Crypto,Monthly,28.82,4,True,20.07,None
+4440,Customer_454,23,Female,Los Angeles,Tablet,542.0,2023-10-13,Cash,Annual,18.18,1,False,39.66,Social Media
+4766,Customer_455,23,Male,Houston,Smartwatch,479.44,2023-09-25,Debit Card,Annual,38.6,4,True,11.03,Advertisement
+6644,Customer_456,72,Male,Los Angeles,Headphones,1002.33,2023-07-31,Crypto,None,80.34,2,False,9.3,Friend
+3914,Customer_457,65,Male,Phoenix,Smartwatch,1488.25,2023-09-11,Credit Card,Monthly,39.82,1,False,47.54,Friend
+5968,Customer_458,21,Male,Phoenix,Phone,1074.22,2023-10-21,Credit Card,Monthly,75.33,2,True,10.49,Friend
+6917,Customer_459,47,Male,Phoenix,Headphones,113.66,2022-05-17,Crypto,Monthly,13.42,1,True,13.05,None
+9787,Customer_460,28,Male,New York,Phone,1743.68,2023-11-05,Credit Card,Monthly,77.5,2,True,48.48,Social Media
+1728,Customer_461,79,Male,Houston,Headphones,176.14,2023-03-04,Crypto,Monthly,24.46,4,False,36.74,Advertisement
+2365,Customer_462,79,Non-binary,Phoenix,Headphones,1913.86,2023-03-28,Cash,Annual,68.06,4,True,34.98,Social Media
+5492,Customer_463,47,Female,New York,Phone,99.03,2023-09-04,Crypto,None,57.01,2,False,42.65,None
+1698,Customer_464,48,Male,Houston,Tablet,1404.18,2022-05-21,Cash,Monthly,92.99,1,True,5.79,Social Media
+8186,Customer_465,41,Non-binary,Los Angeles,Laptop,210.3,2022-03-24,Debit Card,None,39.34,3,False,35.3,None
+1395,Customer_466,72,Non-binary,New York,Smartwatch,1825.82,2022-06-26,Crypto,None,7.55,4,True,25.18,Friend
+8400,Customer_467,26,Non-binary,Chicago,Headphones,955.64,2022-07-17,Debit Card,Annual,2.9,4,True,41.46,Advertisement
+9082,Customer_468,72,Female,New York,Smartwatch,318.17,2023-09-16,Credit Card,Monthly,82.86,3,False,25.41,Friend
+5171,Customer_469,20,Male,New York,Phone,714.59,2023-07-22,Cash,Annual,52.95,2,True,31.01,Social Media
+5360,Customer_470,68,Non-binary,Houston,Smartwatch,371.41,2023-11-22,Crypto,Monthly,77.75,1,True,23.89,Friend
+3502,Customer_471,48,Female,Los Angeles,Phone,382.63,2023-02-25,Debit Card,Annual,24.21,2,True,23.91,Advertisement
+1717,Customer_472,57,Female,Chicago,Smartwatch,1898.81,2023-02-05,Cash,None,35.16,5,True,38.4,Friend
+3782,Customer_473,54,Female,Phoenix,Laptop,918.23,2023-11-29,Cash,Monthly,3.98,4,True,31.43,Advertisement
+5946,Customer_474,53,Non-binary,Phoenix,Laptop,1588.16,2023-04-16,Credit Card,None,96.19,5,True,31.66,Advertisement
+6486,Customer_475,41,Male,New York,Laptop,1297.23,2022-08-06,Credit Card,None,67.12,4,True,22.51,Friend
+9335,Customer_476,48,Non-binary,Houston,Laptop,1369.03,2023-12-30,Cash,Annual,93.39,4,False,26.56,None
+5980,Customer_477,23,Non-binary,Houston,Laptop,306.8,2023-09-24,Cash,Monthly,27.28,5,False,37.29,Social Media
+8266,Customer_478,19,Male,Phoenix,Laptop,506.66,2022-06-24,Crypto,None,61.53,5,True,41.3,None
+5491,Customer_479,37,Male,Chicago,Phone,1584.16,2022-01-23,Cash,Annual,68.17,2,True,34.83,None
+8192,Customer_480,45,Male,Los Angeles,Headphones,1942.99,2023-12-26,Crypto,Monthly,32.44,5,True,46.2,Friend
+6588,Customer_481,28,Female,Chicago,Smartwatch,562.22,2022-08-23,Cash,Monthly,84.96,2,False,41.02,Social Media
+8651,Customer_482,21,Male,Los Angeles,Laptop,579.56,2022-01-13,Credit Card,None,94.77,2,False,28.09,Social Media
+4636,Customer_483,32,Non-binary,Phoenix,Phone,972.15,2022-04-11,Crypto,Monthly,88.6,2,True,33.57,None
+2167,Customer_484,23,Male,Los Angeles,Phone,1968.49,2023-06-20,Debit Card,None,74.17,4,False,46.32,Friend
+2062,Customer_485,71,Non-binary,Houston,Phone,574.47,2023-06-07,Credit Card,Monthly,28.47,4,True,30.96,Social Media
+3156,Customer_486,66,Female,New York,Headphones,843.6,2023-03-28,Crypto,Annual,28.88,5,True,41.24,None
+8860,Customer_487,47,Non-binary,New York,Smartwatch,1788.39,2023-03-07,Crypto,None,96.37,4,True,34.44,Social Media
+6161,Customer_488,73,Non-binary,Phoenix,Headphones,55.7,2023-08-29,Debit Card,None,2.02,5,True,27.6,Friend
+6305,Customer_489,55,Male,Houston,Tablet,127.54,2023-12-14,Crypto,Monthly,71.89,4,False,12.09,Friend
+7541,Customer_490,68,Male,Chicago,Phone,1227.94,2023-06-17,Cash,Monthly,70.92,1,False,21.3,Friend
+5729,Customer_491,79,Non-binary,Houston,Tablet,1819.39,2023-12-24,Debit Card,None,62.65,1,True,48.39,Social Media
+8330,Customer_492,74,Male,New York,Laptop,515.77,2023-10-14,Credit Card,Monthly,99.02,5,False,32.89,Advertisement
+6334,Customer_493,19,Female,New York,Laptop,965.8,2022-10-20,Credit Card,Annual,31.88,4,False,28.22,Social Media
+9924,Customer_494,32,Female,Houston,Headphones,928.41,2022-04-11,Cash,Monthly,34.66,4,True,46.65,Advertisement
+5330,Customer_495,28,Male,Houston,Smartwatch,972.29,2023-05-17,Credit Card,Annual,8.82,2,False,29.33,Friend
+9010,Customer_496,25,Female,New York,Tablet,1263.91,2022-10-31,Crypto,Annual,44.84,3,True,26.3,None
+7801,Customer_497,43,Male,Chicago,Smartwatch,966.0,2023-06-24,Crypto,Annual,26.84,5,True,37.97,Advertisement
+5846,Customer_498,68,Non-binary,Phoenix,Headphones,922.56,2023-07-07,Cash,Annual,35.0,3,True,35.63,Friend
+7731,Customer_499,62,Non-binary,Phoenix,Laptop,974.86,2022-12-21,Credit Card,Annual,83.62,3,True,9.66,Friend
